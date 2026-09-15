@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Sun Ray Accent -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M54,22 C64,22 72,30 72,40 C72,43 71,46 69,48 C75,44 79,37 79,29 C79,20 72,13 63,13 C57,13 52,16 49,21 C50.6,21.7 52.3,22 54,22 Z" />
+    <!-- Main Plant Leaf Sprout -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,28 C45,28 35,36 35,49 C35,63 46,73 54,77 C62,73 73,63 73,49 C73,36 63,28 54,28 Z" />
+    <!-- Inner Leaf Accent in Emerald -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,34 C48,34 41,41 41,50 C41,60 49,67 54,70 C59,67 67,60 67,50 C67,41 60,34 54,34 Z" />
+    <!-- Leaf Center Stem & AI Digital Nodes -->
+    <path
+        android:fillColor="#ECFDF5"
+        android:pathData="M52.5,40 L55.5,40 L55.5,66 L52.5,66 Z" />
+    <path
+        android:fillColor="#ECFDF5"
+        android:pathData="M54,46 L63,42 L64.5,44.5 L54,49 Z" />
+    <path
+        android:fillColor="#ECFDF5"
+        android:pathData="M54,54 L45,50 L43.5,52.5 L54,57 Z" />
+    <!-- Bottom Growth Base / Soil Horizon -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M34,80 C40,78 68,78 74,80 C76,80.7 74,84 68,85 C58,86.5 50,86.5 40,85 C34,84 32,80.7 34,80 Z" />
+</vector>

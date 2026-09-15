@@ -1,0 +1,6 @@
+{
+  "name": "KisanAI",
+  "description": "Smart Farming Assistant: On-device crop disease scanner, irrigation advisor, weather risk alerts, and farm management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

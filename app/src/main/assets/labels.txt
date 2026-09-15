@@ -1,0 +1,22 @@
+Tomato Early Blight
+Tomato Late Blight
+Tomato Leaf Mold
+Tomato Septoria Leaf Spot
+Tomato Spider Mites
+Tomato Target Spot
+Tomato Yellow Leaf Curl Virus
+Tomato Mosaic Virus
+Tomato Healthy
+Potato Early Blight
+Potato Late Blight
+Potato Healthy
+Rice Bacterial Leaf Blight
+Rice Brown Spot
+Rice Leaf Blast
+Wheat Leaf Rust
+Wheat Powdery Mildew
+Cotton Bacterial Blight
+Cotton Leaf Curl Virus
+Maize Common Rust
+Maize Northern Leaf Blight
+Healthy Leaf
