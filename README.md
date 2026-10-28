@@ -6,7 +6,6 @@
 
 KisanAI is designed as a **Farm Decision Intelligence System** rather than another agricultural chatbot or standalone disease scanner. It combines crop vision, IoT sensing, weather intelligence, satellite signals and farm history to transform scattered data into **early warnings, explainable insights and actionable field-level decisions**.
 
----
 
 ## 🚜 1. The Problem We Are Solving
 
