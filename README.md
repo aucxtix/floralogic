@@ -34,7 +34,7 @@ Satellite       → Vegetation Signal
 Farmer          → Must interpret everything
 ```
 
-KisanAI connects these signals into one intelligence loop:
+KisanAI connects these signals into one intelligence :
 
 ```text
 Camera + IoT + Weather + Satellite + Crop Stage + Farm History
